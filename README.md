@@ -31,15 +31,27 @@ Hi, I'm Yan🙌, a Front-End Web Developer and Cloud Developer. I love getting i
 
 **Talking about Personal Stuffs:**
 
-- 🌱 I’m currently learning Cloud Development on AWS
+- 🌱 I’m currently learning Cloud Development
 - 👯 Part of Developer Community.
-- 💬 Ask me about ...
+- 💬 Ask me about my work
 - 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/yan-russel-tatchum-nono-4b8696197/)
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I love coffee
 
 **Community**
 
 - Facebook Developer Circles Yaounde
+
+#
+
+#
+
+#
+
+#
+
+#
+
+#
 
 ### Graph stats
 
