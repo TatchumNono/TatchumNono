@@ -33,9 +33,9 @@ Hi, I'm Yan🙌, a Front-End Web Developer and Cloud Developer. I love getting i
 
 - 🌱 I’m currently learning Cloud Development
 - 👯 Part of Developer Community.
-- 💬 Ask me about my work
-- 📫 How to reach me: my [LinkedIn](https://www.linkedin.com/in/yan-russel-tatchum-nono-4b8696197/)
-- ⚡ Fun fact: I love coffee
+- 💬 Ask me about my [work](https://twitter.com/yan_codes)
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/yan-russel-tatchum-nono-4b8696197/)
+- ⚡ Fun fact: I love coffee 😍
 
 **Community**
 
@@ -49,8 +49,7 @@ Hi, I'm Yan🙌, a Front-End Web Developer and Cloud Developer. I love getting i
 <br/>
 <br/>
 <br/>
-
-#
+<br/>
 
 ### Graph stats
 
