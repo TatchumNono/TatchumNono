@@ -41,15 +41,14 @@ Hi, I'm Yan🙌, a Front-End Web Developer and Cloud Developer. I love getting i
 
 - Facebook Developer Circles Yaounde
 
-#
-
-#
-
-#
-
-#
-
-#
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 #
 
